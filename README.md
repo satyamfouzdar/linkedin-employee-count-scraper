@@ -13,7 +13,8 @@ INSTALLATION
 
 Clone the repo and get in the directory
 
-python3 -m venv .venv  # Create the virtual environment
+```python3 -m venv .venv  # Create the virtual environment
 source .venv/bin/activate # activate the environment
 pip install -r requirements.txt # install the dependencies
 python3 idea.py  #Run the script
+```
